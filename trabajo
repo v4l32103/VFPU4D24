@@ -1,0 +1,159 @@
+<html>
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum Vitae - Valery Urbina</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+        }
+        .contact-info, .education, .skills {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 1.5em;
+            border-bottom: 2px solid #333; margin-bottom: 10px;
+   }
+        .photo {
+            width: 150px;
+            height: 150px;
+            background-color: #ddd;
+            margin: 20px auto;
+            border: 2px solid #333;
+            display: block;
+            text-align: center;
+            line-height: 150px;
+            font-size: 1.2em;
+        }
+</style>
+</head>
+<body>
+    <div class="container">
+        <h1>Valery Urbina</h1>
+
+<div class="photo"><img src="computaciòn" with="50" height="150"></div>
+</style>
+        <div class="contact-info">
+            <h2 class="section-title">Datos Personales</h2>
+            <p><strong>Estado Civil:</strong> En relaciòn</p>
+            <p><strong>Fecha de Nacimiento:</strong> 3 e Abril de 2008</p>
+            <p><strong>Nacionalidad:</strong> Guatemalteca</p>
+            <p><strong>Dirección:</strong> cuarta avenida 7-27 colonia Enriqueta, Zona 5 de Villa Nueva</p>
+     <p><strong>Teléfono:</strong> 4538-7783</p>
+            <p><strong>Email:</strong> valeryfabiolaurbinaperez@gmail.com</p>
+        </div>
+
+        <div class="education"><h2 class="section-title">
+            <h2class="section-title">Formación Académica</h2>
+            <ul>
+                <li><strong>Instituto IECECE</strong> - Enero 2021-2023<br> 
+<li><strong>Instituto Profesional de Computación</strong><br>
+                4to Bachillerato con Orientación en Diseño Gráfico <br> 
+                Primaria</li>
+                <li><strong>Escuela Guardia de Honor</strong> - Enero 2015 - Octubre 2020<br>
+            </ul>
+        </div>
+
+        <div class="skills">
+            <h2 class="section-title">Habilidades</h2>
+            <ul>
+                <li>Arte culinario y saber cocinar excelente</li>
+                <li>Tocar guitarra y cantar</li>
+                <li>Patinar</li>
+                <li>Adaptabilidad</li>
+  <li>Dibujar y pintar</li>
+                <li>Hablar fluido frente al público</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html><html>
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum Vitae - Valery Urbina</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+        }
+        .contact-info, .education, .skills {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 1.5em;
+            border-bottom: 2px solid #333; margin-bottom: 10px;
+   }
+        .photo {
+            width: 150px;
+            height: 150px;
+            background-color: #ddd;
+            margin: 20px auto;
+            border: 2px solid #333;
+            display: block;
+            text-align: center;
+            line-height: 150px;
+            font-size: 1.2em;
+        }
+</style>
+</head>
+<body>
+    <div class="container">
+        <h1>Virginia Alvarado</h1>
+
+<div class="photo"><img src="pecas.png" with="50" height="150"></div>
+</style>
+        <div class="contact-info">
+            <h2 class="section-title">Datos Personales</h2>
+            <p><strong>Estado Civil:</strong> En relaciòn</p>
+            <p><strong>Fecha de Nacimiento:</strong> 3 de abril de 2008</p>
+            <p><strong>Nacionalidad:</strong> Guatemalteca</p>
+            <p><strong>Dirección:</strong> cuarta avenida 7-27 zona 5 colonia Enriqueta de Villa Nueva</p>
+     <p><strong>Teléfono:</strong> 4538-7783</p>
+            <p><strong>Email:</strong> valeryfabiolaurbinaperez@gmail.com</p>
+        </div>
+
+        <div class="education"><h2 class="section-title">
+            <h2class="section-title">Formación Académica</h2>
+            <ul>
+                <li><strong>Instituto IECECE</strong> - Enero 2021-2023<br> 
+<li><strong>Instituto Profesional de Computación</strong><br>
+                4to Bachillerato con Orientación en Diseño Gráfico <br> 
+                Primaria</li>
+                <li><strong>Escuela Guardia de Honor</strong> - Enero 2015 - Octubre 2020<br>
+            </ul>
+        </div>
+
+        <div class="skills">
+            <h2 class="section-title">Habilidades</h2>
+            <ul>
+                <li>Diseño Gráfico</li>
+                <li>Arte culinario y saber cocinar excelente</li>
+                <li>tocar guitarra y cantar</li>
+                <li>Patinar</li>
+  <li>Dibujar</li>
+                <li>Hablar fluido frente al público</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
